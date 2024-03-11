@@ -1,0 +1,11 @@
+Hola, a continuacion te explicare como instalar los mods en tu servidor de minecraft:
+1: Para instalar los mods tienes que primero tener instalado minecraft, para ello puedes usar launchers como el oficial o launchers piratas como SKLauncher, TLauncher, entre otros.
+2: Instala la version 1.16.5 del minecraft
+3: Instalar la ultima de forge para la version 1.16.5, en mi caso instalare la version (1.16.5 - 36.2.42), una vez instalado forge en modo cliente, tienes que iniciarlo
+para que se cree la carpeta mods
+4: Presiona las teclas WIN + R, en el cual colocaras lo siguiente %AppData%, luego le daras a la tecla ENTER
+5: Cuando termines el paso anterior se te abrira una carpeta, en la cual buscaras la carpeta de Minecraft, el cual tiene el nombre de .minecraft, por ultimo la abres
+6: Una vez abierta deberas la carpeta de mods y esa carpeta la deberas reemplazar por la de este repositorio
+7: Por ultimo inicia forge en tu launcher y listo
+
+Nota: Recuerda que la carpeta de mods se encuentre vacia ya que si no es el caso luego los mods no te cargaran
